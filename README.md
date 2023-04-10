@@ -1,5 +1,5 @@
 
-Please check the official laravel installation guide for server requirements before you start. [Official Documentation](https://laravel.com/docs/5.8/installation#installation)
+Please check the official laravel installation guide for server requirements before you start. [Official Documentation](https://laravel.com/docs/8.x/installation)
 
 Clone the repository
 
@@ -17,3 +17,5 @@ Start the local development server
 
     php artisan serve
  
+Access the project
+[http://localhost:8080](http://localhost:8080)
