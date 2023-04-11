@@ -3,7 +3,7 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone https://github.com/firstioanmar/uts-ipat.git
+    git clone https://github.com/Faraskousei/uts-ipat.git
     
 Install all the dependencies using composer
 
